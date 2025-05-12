@@ -1,1 +1,1 @@
-#This is my local repo learing version contro of git and github
+#This is my local repo learing version control of git and github
